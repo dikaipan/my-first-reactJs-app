@@ -1,4 +1,4 @@
-## This is my first try using reactJs.  "Hello Worl" 
+## This is my first try using reactJs.  "Hello World" 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
